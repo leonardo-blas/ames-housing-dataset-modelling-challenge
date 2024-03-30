@@ -17,4 +17,4 @@ From our experiments, we learned that our best model is the 2nd degree ridge pol
 All in all, the task was accomplished. We constructed a model that estimates housing prices and has a RMSE score--on `test.csv`--of about $19k, meaning that, in average, its price predictions will be off by about that amount.
 
 ## References
-[1] J. O, M. Harris, "Ames Iowa Submission". 2024. https://kaggle.com/competitions/adobe-dsb-34
+[1] J. O, M. Harris, "Ames Iowa Submission". 2024. https://kaggle.com/competitions/adobe-dsb-34.
