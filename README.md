@@ -1,4 +1,4 @@
-# Ames housing dataset challenge
+# Ames housing dataset modelling challenge
 
 ## Problem statement
 As part of our data science bootcamp, we were given housing datasets, `train.csv` and `test.csv`, and were asked to develop a model that can accurately predict the `SalePrice` column of the testing set, which was not given. We were asked to optimize the RMSE, meaning to optimize our predictions in terms of dollars.
