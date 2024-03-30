@@ -4,7 +4,7 @@
 As part of our data science bootcamp, we were given housing datasets, `train.csv` and `test.csv`, and were asked to develop a model that can accurately predict the `SalePrice` column of the testing set, which was not given. We were asked to optimize the RMSE, meaning to optimize our predictions in terms of dollars.
 
 ## Data dictionary
-The data dictionary for the Ames housing dataset can be found at https://jse.amstat.org/v19n3/decock/DataDocumentation.txt.
+The data dictionary for the Ames housing dataset can be found at https://kaggle.com/competitions/adobe-dsb-34 [1].
 From these ~80 columns, our model uses all of them except: `PID`, `Garage Yr Blt`, `MS SubClass`, `Overall Cond`, `BsmtFin SF 2`, `Low Qual Fin SF`, `Bsmt Half Bath`, `3Ssn Porch`, `Pool Area`, `Misc Val`, `Mo Sold`, `Yr Sold`.
 
 ## Summary
@@ -17,4 +17,4 @@ From our experiments, we learned that our best model is the 2nd degree ridge pol
 All in all, the task was accomplished. We constructed a model that estimates housing prices and has a RMSE score--on `test.csv`--of about $19k, meaning that, in average, its price predictions will be off by about that amount.
 
 ## References
-[1] https://jse.amstat.org/v19n3/decock/DataDocumentation.txt.
+[1] J. O, M. Harris, "Ames Iowa Submission". 2024. https://kaggle.com/competitions/adobe-dsb-34
