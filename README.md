@@ -11,7 +11,7 @@ As part of a Kaggle competition [1], we were given housing datasets, `train.csv`
 
 ## Data dictionary
 The data dictionary for the Ames housing dataset can be found at https://kaggle.com/competitions/adobe-dsb-34 [1].
-From these ~80 columns, our model uses all of them except: `PID`, `Garage Yr Blt`, `MS SubClass`, `Overall Cond`, `BsmtFin SF 2`, `Low Qual Fin SF`, `Bsmt Half Bath`, `3Ssn Porch`, `Pool Area`, `Misc Val`, `Mo Sold`, `Yr Sold`.
+Our model uses all ~80 columns except: `PID`, `Garage Yr Blt`, `MS SubClass`, `Overall Cond`, `BsmtFin SF 2`, `Low Qual Fin SF`, `Bsmt Half Bath`, `3Ssn Porch`, `Pool Area`, `Misc Val`, `Mo Sold`, `Yr Sold`.
 
 ## References
 [1] J. O, M. Harris, "Ames Iowa Submission". 2024. https://kaggle.com/competitions/adobe-dsb-34.
