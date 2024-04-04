@@ -1,4 +1,4 @@
-# Housing price modelling challenge
+# Housing price model
 
 ## Problem statement
 As part of a Kaggle competition [1], we were given housing datasets, `train.csv` and `test.csv`, and were asked to develop a model that can accurately predict the `SalePrice` column of the testing set, which was not given. We were asked to optimize the RMSE, meaning to optimize our predictions in terms of dollars.
