@@ -1,4 +1,4 @@
-# House price modelling challenge
+# House price modelling competition
 
 ## Problem statement
 As part of a Kaggle competition, we were given house price datasets, `train.csv` and `test.csv`, from Ames, IA, between 2016 and 2020 [1]. We were asked to develop a model that can accurately predict the `SalePrice` column of the testing set, which was not given, and to optimize the RMSE, meaning to optimize our predictions in terms of dollars.
