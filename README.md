@@ -2,9 +2,14 @@
 
 ## Problem statement
 As part of a Kaggle competition, we were given house price datasets, `train.csv` and `test.csv`, from Ames, IA, between 2016 and 2020 [1]. We were asked to develop a model that can accurately predict the `SalePrice` column of the testing set, which was not given, and to optimize the RMSE, meaning to optimize our predictions in terms of dollars.
+<br>
+For further reference, visit https://kaggle.com/competitions/adobe-dsb-34.
+
+## Results
+Our 2nd degree ridge polynomial model won the Kaggle competition.
 
 ## Findings
-* The best model is a 2nd degree ridge polynomial model. It's accuracy is  ~&plusmn;$19k on the testing set (RMSE ~$19k).
+* Our best model is a 2nd degree ridge polynomial model. It's accuracy is  ~&plusmn;$19k on the testing set (RMSE ~$19k).
 * The overall quality of a house has a high correlation with the sale price, but overall condition has a very low correlation.
 * The year and month a house was sold have very low correlation with the sale price.
 * The existence of a pool has a significant correlation with the sale price, but the pool area does not.
