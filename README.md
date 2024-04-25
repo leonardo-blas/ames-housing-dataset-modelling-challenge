@@ -9,7 +9,7 @@ For further reference, visit https://kaggle.com/competitions/adobe-dsb-34.
 Our 2nd degree ridge polynomial model won the Kaggle competition.
 
 ## Findings
-* Our best model is a 2nd degree ridge polynomial model. It's accuracy is  ~&plusmn;$19k on the testing set (RMSE ~$19k).
+* Our best model is a 2nd degree ridge polynomial model. It's RMSE is ~$19k.
 * The overall quality of a house has a high correlation with the sale price, but overall condition has a very low correlation.
 * The year and month a house was sold have very low correlation with the sale price.
 * The existence of a pool has a significant correlation with the sale price, but the pool area does not.
